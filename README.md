@@ -27,11 +27,14 @@ El flujo de trabajo implementado para la creación de esta animación consistió
 
 1. **Configuración y Referencias:** Se inició con un lienzo en blanco (*Grease Pencil Blank*) y se importó una hoja de referencias fotográfica con las 8 poses del ciclo de movimiento. Se ajustó la opacidad de esta imagen al 50% para facilitar el proceso de calco. <img width="815" height="625" alt="image" src="https://github.com/user-attachments/assets/03eb86ad-f3a9-4948-8958-8f805c15a1a5" />
 
-2. **Creación de Materiales:** Se definieron las paletas de colores separando estrictamente las propiedades de *Stroke* (Trazo) y *Fill* (Relleno) para mantener el orden [00:01:40].
-3. **Proceso de Trazado (Lineart):** Pasando al modo de dibujo (*Draw Mode*), se trazó cuidadosamente el contorno de cada pose utilizando herramientas de geometría rápida para un trazo limpio [00:07:46].
-4. **Aplicación de Color (Relleno):** Tras finalizar las líneas, se procedió a rellenar las áreas cerradas en la capa de relleno correspondiente, asegurando que el color quedara siempre por debajo y contenido en los límites del trazo [00:12:52].
-5. **Sincronización y Alineación:** Una vez terminados todos los dibujos, se utilizó el modo edición para ajustar y superponer la posición de todos los fotogramas, centrando la acción y estabilizando el movimiento general de la mascota [00:28:31].
-6. **Postproducción e Iluminación:** Se añadieron efectos visuales en tiempo real desde el panel de renderizado. Se configuró un ribete de luz direccional para separar al personaje del fondo [00:32:23], se proyectó una sombra en el suelo virtual [00:32:52] y se personalizó el color de entorno del mundo [00:33:46].
+2. **Creación de Materiales:** Se definieron las paletas de colores separando estrictamente las propiedades de *Stroke* (Trazo) y *Fill* (Relleno) para mantener el orden. <img width="344" height="681" alt="image" src="https://github.com/user-attachments/assets/0a06104a-3492-489a-a606-4ac566121221" />
+
+3. **Proceso de Trazado (Lineart):** Pasando al modo de dibujo (*Draw Mode*), se trazó cuidadosamente el contorno de cada pose utilizando herramientas de geometría rápida para un trazo limpio. <img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/145f3eb4-8d23-46ae-9672-d82c355cd82b" />
+
+4. **Sincronización y Alineación:** Una vez terminados todos los dibujos, se utilizó el modo edición para ajustar y superponer la posición de todos los fotogramas, centrando la acción y estabilizando el movimiento general de la mascota. <img width="1598" height="854" alt="image" src="https://github.com/user-attachments/assets/7602734b-2df8-4b72-8fd7-a1ef675abcae" />
+5. **RESULTADO FINAL**
+https://github.com/user-attachments/assets/9c5e45fd-10e4-4b36-8361-cb0d646ef27b
+
 
 ## Créditos y Referencias
 El desarrollo técnico y la metodología de este proyecto tomaron como base el tutorial de **STUDIO 5037**:
